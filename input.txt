@@ -1,0 +1,7 @@
+bat, sip, bog,
+hut, ram, bid,
+jet, cob, fig,
+bum, vet, bar,
+zap, log, bot,
+fun, kit, bug,
+pop, lit, bud
